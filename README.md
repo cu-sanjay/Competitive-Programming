@@ -1,10 +1,10 @@
 # Programming Contest Submissions
 
-[![CodeChef](https://i.imgur.com/vGy4V63.png)](https://www.codechef.com/users/your_codechef_profile)
-[![CodeForces](https://i.imgur.com/m0p2wd9.png)](https://codeforces.com/profile/your_codeforces_profile)
-[![Unstop](https://i.imgur.com/4C23Qff.png)](https://www.unstop.com/users/your_unstop_profile)
-[![LeetCode](https://i.imgur.com/gcq1NtG.png)](https://leetcode.com/your_leetcode_profile)
-[![GeeksforGeeks](https://i.imgur.com/nOkf6O6.png)](https://auth.geeksforgeeks.org/user/your_gfg_profile)
+![CodeChef](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codechef.svg)
+![CodeForces](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/codeforces.svg)
+![Unstop](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/unstop.svg)
+![LeetCode](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/leetcode.svg)
+![GeeksforGeeks](https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/geeksforgeeks.svg)
 
 This repository contains my submissions from various programming contests, including CodeChef, CodeForces, Unstop, LeetCode, and GeeksforGeeks. It serves as a great resource for anyone looking to improve their programming skills.
 
@@ -57,4 +57,3 @@ This repository contains my submissions from various programming contests, inclu
 [Click here](https://auth.geeksforgeeks.org/user/your_gfg_profile) to visit my GeeksforGeeks profile.
 
 Feel free to explore the solutions and learn from them. If you have any questions or suggestions, feel free to reach out. Happy coding!
-
