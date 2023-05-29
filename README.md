@@ -16,6 +16,6 @@ This repository contains my submissions from various programming contests, inclu
 | --- | --- |
 | CodeChef | ![CodeChef Logo](https://s3.amazonaws.com/codechef_shared/sites/all/themes/abessive/logo.svg) |
 | CodeForces | ![CodeForces Logo](https://codeforces.org/s/91515/images/codeforces-logo-with-telegram.png) |
-| Unstop | ![Unstop Logo](https://github.com/DhruvGupta130/unstop_clone/blob/main/unstop-logo.svg) |
+| Unstop | ![Unstop Logo](https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/svg/unstop-logo.svg) |
 | LeetCode | ![LeetCode Logo](https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg) |
 | GeeksforGeeks | ![GeeksforGeeks Logo](https://media.geeksforgeeks.org/wp-content/cdn-uploads/gfg_200x200-min.png) |
