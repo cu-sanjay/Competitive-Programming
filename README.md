@@ -18,7 +18,7 @@ This repository contains my submissions from various programming contests, inclu
 | CodeForces | ![CodeForces Logo](https://codeforces.org/s/97808/images/codeforces-sponsored-by-ton.png) |
 | Unstop | ![Unstop Logo](https://d8it4huxumps7.cloudfront.net/uploads/images/unstop/svg/unstop-logo.svg) |
 | LeetCode | ![LeetCode Logo](https://assets.leetcode.com/static_assets/public/webpack_bundles/images/logo-dark.e99485d9b.svg) |
-| GeeksforGeeks | ![GeeksforGeeks Logo](https://media.geeksforgeeks.org/wp-content/cdn-uploads/logo-new-2.svg) |
+| GeeksforGeeks | ![GeeksforGeeks Logo](https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210420155809/gfg-new-logo.png) |
 
 # Programming Contest Submissions
 
